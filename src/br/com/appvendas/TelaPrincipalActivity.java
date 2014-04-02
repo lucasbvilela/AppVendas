@@ -21,7 +21,4 @@ public class TelaPrincipalActivity extends Activity {
 		
 	}
 
-
-
-
 }
