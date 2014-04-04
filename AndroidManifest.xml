@@ -23,8 +23,28 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="br.com.appvendas.CadastroClienteActivity"
+            android:name="br.com.appvendas.telas.clientes.CadastroCliente"
             android:label="@string/title_activity_cadastro_cliente" >
+        </activity>
+        <activity
+            android:name="br.com.appvendas.telas.Clientes"
+            android:label="@string/title_activity_clientes" >
+        </activity>
+        <activity
+            android:name="br.com.appvendas.telas.Produtos"
+            android:label="@string/title_activity_produtos" >
+        </activity>
+        <activity
+            android:name="br.com.appvendas.telas.Relatorios"
+            android:label="@string/title_activity_relatorios" >
+        </activity>
+        <activity
+            android:name="br.com.appvendas.telas.Catagolos"
+            android:label="@string/title_activity_catagolos" >
+        </activity>
+        <activity
+            android:name="br.com.appvendas.telas.Vendas"
+            android:label="@string/title_activity_vendas" >
         </activity>
     </application>
 

@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AppVendas</string>
+    <string name="app_name">Comercial RLima</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_cadastro_cliente">CadastroClienteActivity</string>
+    <string name="user_name">Roserval Lima</string>
+    <string name="title_activity_clientes">Clientes</string>
+    <string name="title_activity_produtos">Produtos</string>
+    <string name="title_activity_relatorios">Relatorios</string>
+    <string name="title_activity_catagolos">Catagolos</string>
+    <string name="title_activity_vendas">Vendas</string>
 
 </resources>
